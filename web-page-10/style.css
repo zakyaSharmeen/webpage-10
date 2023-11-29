@@ -1,0 +1,77 @@
+.container{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Raleway", Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.row-1{
+    margin: 16px 0;
+    padding: 128px 16px;
+    text-align: center;
+}
+.row-1 .head-1{
+    letter-spacing: 6px;
+    font-family: "Raleway", Arial, sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 24PX;
+    color: grey;
+}
+.head-2{
+    letter-spacing: 6px;
+    font-family: "Raleway", Arial, sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 36px;
+    color: grey;
+}
+.nav{
+    padding: 32px 0;
+    
+
+}
+.border{
+    border: 1px solid #ccc;
+    padding: 8px 0px;
+        display: inline;
+    width: auto;
+}
+.border a{
+   
+    padding: 8px 16px;
+    width: auto;
+    border: none;
+    text-decoration: none;
+    color: grey;
+    font-family: "Raleway", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    /* line-height: 22.5; */
+    
+}
+.border a:hover{
+    background-color: gainsboro;
+}
+
+
+
+
+
+
+.row-2{
+    display: flex;
+    padding: 0 8px;
+    filter: grayscale(75%);
+    margin-bottom: 128px;
+}
+.left{
+    padding: 0 8px;
+}
+.right{
+    padding: 0 8px;
+}
+.b-1{
+    margin-bottom: 12px;
+}
